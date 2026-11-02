@@ -1,0 +1,25 @@
+{
+  "name": "do_an_co_so",
+  "version": "1.0.0",
+  "description": "Đồ án cơ sở",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/haiha74/Do_an_co_so.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/haiha74/Do_an_co_so/issues"
+  },
+  "homepage": "https://github.com/haiha74/Do_an_co_so#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.64.1",
+    "@types/node": "^26.6.6",
+    "typescript": "^7.0.2",
+    "xlsx": "^0.18.5"
+  }
+}
