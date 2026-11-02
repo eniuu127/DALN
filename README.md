@@ -74,4 +74,4 @@ Một số test còn phụ thuộc cấu hình môi trường hoặc đang đư�
 
 ---
 
-*Dự án phục vụ học tập và thực hành Software Testing, hướng tới vị trí Tester Intern / Quality Engineering Intern và phát triển kỹ năng Automation Testing.*
+*Dự án phục vụ học tập và thực hành Software Testing*
